@@ -4,7 +4,7 @@
 <center>
 <h2>NotGrimes  - Java Developer ☕</h2>
 <center>
-Contact me via <a href="https://github.com/notgrimes1/notgrimes1">Telegram<br>
+Contact me via <a href="https://t.me/notgrimes">Telegram<br>
 <br></a> 
 
 <pre>
